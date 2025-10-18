@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "JBD - Ninebot integration device EN"
             }
+          },
+          {
+            "id": "f956730aa442b7c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JBD - Ninebot integration device RU.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "JBD - Ninebot integration device RU"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,12 +198,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f55c191a8d852a97",
+  "active": "f956730aa442b7c9",
   "lastOpenFiles": [
+    "JBD - Ninebot integration device EN.md",
+    "updates/x3_integrator_4892.zip",
+    "updates/readme.md",
     "updates/x3_integrator_4890.zip",
     "updates",
     "JBD - Ninebot integration device RU.md",
-    "JBD - Ninebot integration device EN.md",
     "integrator/JBD - Ninebot integration device EN.md",
     "integrator/JBD - Ninebot integration device RU.md",
     "integrator/Readme.md",

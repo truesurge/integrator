@@ -20,6 +20,8 @@ Key Features :
 
 ![Placement](img/placement.png)
 
+Type: SMD 0603
+
 | Config | Rate    |
 | ------ | ------- |
 | 13s    | 200khom |
