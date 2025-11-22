@@ -9,7 +9,7 @@ Key Features :
 3. Full projection of battery information: current, temperature, cells voltage, battery voltage.
 4. Extreme use timers.
 5. Sleep mode to minimize power consumption
-6. Battery connection up to 18s (need MCU modding, more info below)
+6. Battery connection up to 16s (17s 18s 19s ... 22s need MCU modding, more info below)
 7. Charging mode display function
 8. OTA updates
 
