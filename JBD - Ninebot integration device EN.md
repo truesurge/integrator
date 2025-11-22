@@ -51,3 +51,4 @@ Type: SMD 0603
 ## Best practices:
 
 1) If you are using an electric brake, it is recommended that you set the overvoltage and overcurrent limits in the BMS settings to the maximum possible for your BMS. During braking, current flows into the battery and the voltage/current can be higher than the rated values, especially if the battery is 100% charged. If this is not done, the BMS may go into protection and the current will have nowhere to go but to stay somewhere in the controller(MCU), causing damage to the controller. It is also recommended not to charge the battery to 100%, thus prolonging the life of the battery itself and leaving free space for excess current during braking. This is the same as if you were trying to fill a bottle with more water than its capacity.
+2) There is a folder with firmware in the repository: https://github.com/truesurge/integrator/tree/main/updates To flash the firmware, use: https://utility-beta.cfw.sh/
