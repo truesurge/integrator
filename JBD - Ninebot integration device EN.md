@@ -22,14 +22,15 @@ Key Features :
 
 Type: SMD 0603
 
-| Config | Rate    |
-| ------ | ------- |
-| 13s    | 200khom |
-| 14s    | 215khom |
-| 15s    | 230khom |
-| 16s    | 246khom |
-| 17s    | 260khom |
-| 18s    | 276khom |
+| Config          | Rate    | P.S.                                                                                                                                    |
+| --------------- | ------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| 13s             | 200khom |                                                                                                                                         |
+| 14s             | 215khom |                                                                                                                                         |
+| 15s             | 230khom |                                                                                                                                         |
+| 16s             | 246khom |                                                                                                                                         |
+| 17s             | 260khom | Dangerous. 17 s is close to the limits of MOSFETs. You could burn them out. Be careful or just replace it together with the capacitors. |
+| 18s             | 276khom | Dangerous. 17 s is close to the limits of MOSFETs. You could burn them out. Be careful or just replace it together with the capacitors. |
+| 19s 20s 21s 22s |         | Dangerous. 17 s is close to the limits of MOSFETs. You could burn them out. Be careful or just replace it together with the capacitors. |
 
 
 ## Installation:

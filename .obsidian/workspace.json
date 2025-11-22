@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JBD - Ninebot integration device EN.md",
+                "file": "JBD - Ninebot integration device RU.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JBD - Ninebot integration device EN"
+              "title": "JBD - Ninebot integration device RU"
             }
           }
         ]
@@ -185,8 +185,8 @@
   },
   "active": "1b7f106341d6f25a",
   "lastOpenFiles": [
-    "JBD - Ninebot integration device RU.md",
     "JBD - Ninebot integration device EN.md",
+    "JBD - Ninebot integration device RU.md",
     "Без названия",
     "updates/x3_integrator_4892.zip",
     "updates/readme.md",
