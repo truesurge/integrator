@@ -13,7 +13,6 @@ Key Features :
 7. Charging mode display function
 8. OTA updates
 
-
 | **Device**                | **Compatible** |
 | ------------------------- | :------------: |
 | Ninebot ZT3 Pro           |      Yes       |
@@ -23,7 +22,6 @@ Key Features :
 | Ninebot G30 / G2          |       No       |
 | Ninebot GT1 / GT2         |       No       |
 | Any else unlisted Ninebot |       No       |
-
 
 ⚠️ WARNING: To increase the voltage, you must replace the resistor inside the MCU that matches your voltage from the list below. Acceptable range is +5% 
 
