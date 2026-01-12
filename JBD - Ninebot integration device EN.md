@@ -13,15 +13,15 @@ Key Features :
 7. Charging mode display function
 8. OTA updates
 
-| **Device**                | **Compatible** |
-| ------------------------- | :------------: |
-| Ninebot ZT3 Pro           |      Yes       |
-| Ninebot G3                |      Yes       |
-| Ninebot GT3               |      Yes       |
-| Ninebot GT3 Pro           |      Yes       |
-| Ninebot G30 / G2          |       No       |
-| Ninebot GT1 / GT2         |       No       |
-| Any else unlisted Ninebot |       No       |
+| **Device**                | **Compatible** |                                     Note                                      |
+| ------------------------- | :------------: | :---------------------------------------------------------------------------: |
+| Ninebot ZT3 Pro           |       ✅        |            >13s hw patch, > 16s deep board rework limited with 20s            |
+| Ninebot G3                |       ✅        |            >13s hw patch, > 16s deep board rework limited with 20s            |
+| Ninebot GT3               |       ✅        |            >13s hw patch, > 16s deep board rework limited with 20s            |
+| Ninebot GT3 Pro           |       ✅        |                             20s design by default                             |
+| Ninebot G30 / G2          |       ❌        | [Legacy integrator required](https://github.com/truesurge/Legacy-integrator/) |
+| Ninebot GT1 / GT2         |       ❌        | [Legacy integrator required](https://github.com/truesurge/Legacy-integrator/) |
+| Any else unlisted Ninebot |       ❌        | [Legacy integrator required](https://github.com/truesurge/Legacy-integrator/) |
 
 ⚠️ WARNING: To increase the voltage, you must replace the resistor inside the MCU that matches your voltage from the list below. Acceptable range is +5% 
 
@@ -56,7 +56,11 @@ Type: SMD 0603
     Disconnection - ⚠️ in reverse order ⚠️
 
 ![tutorial](img/install_tutorial.jpg)
+## Ordering and support
 
+Russia - https://t.me/SurgeSPB
+Belarus / Europe - https://shop.jsb.by
+Support group - https://t.me/ninebotfun
 ## Best practices:
 
 1) If you are using an electric brake, it is recommended that you set the overvoltage and overcurrent limits in the BMS settings to the maximum possible for your BMS. During braking, current flows into the battery and the voltage/current can be higher than the rated values, especially if the battery is 100% charged. If this is not done, the BMS may go into protection and the current will have nowhere to go but to stay somewhere in the controller(MCU), causing damage to the controller. It is also recommended not to charge the battery to 100%, thus prolonging the life of the battery itself and leaving free space for excess current during braking. This is the same as if you were trying to fill a bottle with more water than its capacity.
