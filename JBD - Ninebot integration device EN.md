@@ -1,6 +1,17 @@
 ## Description:
 
-![Integrator](img/integrator.jpg)
+![Integrator v1](img/integrator.jpg)
+
+### Hardware revisions:
+
+There are two hardware revisions of the Integrator device:
+
+- **v1** - original PCB shown above.
+- **v2** - updated PCB shown below.
+
+Both revisions provide the same functionality and use the same installation and connection procedure.
+
+![Integrator v2](img/v2.jpeg)
 
 Integrator - device that allows you to connect JBD BMS to the controller of Ninebot G3 \ ZT3 \ F3 \ GT3 \ GT3 Pro series scooters. 
 Key Features :
