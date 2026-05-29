@@ -62,13 +62,13 @@
   </thead>
   <tbody>
     <tr>
-      <td colspan="2">⚠️ Отключите мосфеты заряда/разряда в приложении. ⚠️<br><img src="img/jbd_app_fets.jpg" width="200" alt="BMS app fets"></td>
+      <td colspan="2" style="text-align: center">⚠️ Отключите мосфеты заряда/разряда в приложении. ⚠️<br><img src="img/jbd_app_fets.jpg" width="200" alt="BMS app fets"></td>
     </tr>
     <tr>
-      <td colspan="2">Подключите интегратор к BMS: 4-контактный разъём → порт UART.</td>
+      <td colspan="2" style="text-align: center">Подключите интегратор к BMS: 4-контактный разъём → порт UART.</td>
     </tr>
     <tr>
-      <td colspan="2">Подключите интегратор к MCU: 4-контактный разъём Molex minifit.</td>
+      <td colspan="2" style="text-align: center">Подключите интегратор к MCU: 4-контактный разъём Molex minifit.</td>
     </tr>
     <tr>
       <td>Подключите интегратор к MCU разъёмом XT90.</td>

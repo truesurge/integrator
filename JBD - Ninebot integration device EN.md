@@ -64,13 +64,13 @@ Type: SMD 0603
   </thead>
   <tbody>
     <tr>
-      <td colspan="2">⚠️ Disable charge/discharge fets in app. ⚠️<br><img src="img/jbd_app_fets.jpg" width="200" alt="BMS app fets"></td>
+      <td colspan="2" style="text-align: center">⚠️ Disable charge/discharge fets in app. ⚠️<br><img src="img/jbd_app_fets.jpg" width="200" alt="BMS app fets"></td>
     </tr>
     <tr>
-      <td colspan="2">Connect Integrator to BMS: 4-pin connector → UART port.</td>
+      <td colspan="2" style="text-align: center">Connect Integrator to BMS: 4-pin connector → UART port.</td>
     </tr>
     <tr>
-      <td colspan="2">Connect Integrator to MCU: 4-pin Molex minifit connector.</td>
+      <td colspan="2" style="text-align: center">Connect Integrator to MCU: 4-pin Molex minifit connector.</td>
     </tr>
     <tr>
       <td>Connect Integrator to MCU with XT90.</td>
