@@ -9,7 +9,7 @@ There are two hardware revisions of the Integrator device:
 - **v1** - original PCB shown above.
 - **v2** - updated PCB shown below.
 
-Both revisions provide the same functionality and use the same installation and connection procedure.
+Both revisions provide the same functionality. Steps 1–3 are the same; battery power connection differs (see Installation).
 
 ![Integrator v2](img/v2.jpeg)
 
@@ -54,17 +54,18 @@ Type: SMD 0603
 
 ## Installation:
 
-1) ⚠️ Disable charge\discharge fets in app ⚠️
-
 ![tutorial](img/jbd_app_fets.jpg)
 
-2) Conect Integrator to BMS with small 4 pin connector to uart port
-3) Connect Integrator to MCU with 4pin Molex minifit connector
-4) Connect Integrator with xt90 to MCU
-5) Connect battery with xt90 to integrator
-6) Enable charge\discharge fets in app
- 
-    Disconnection - ⚠️ in reverse order ⚠️
+| <img src="img/integrator.jpg" width="120" alt="v1"> | <img src="img/v2.jpeg" width="120" alt="v2"> |
+| --- | --- |
+| ⚠️ Disable charge/discharge fets in app. ⚠️ | ⚠️ Disable charge/discharge fets in app. ⚠️ |
+| Connect Integrator to BMS: 4-pin connector → UART port. | Connect Integrator to BMS: 4-pin connector → UART port. |
+| Connect Integrator to MCU: 4-pin Molex minifit connector. | Connect Integrator to MCU: 4-pin Molex minifit connector. |
+| Connect Integrator to MCU with XT90. | Connect the battery directly to the MCU. |
+| Connect the battery to the integrator with XT90. | Enable charge/discharge fets in app. |
+| Enable charge/discharge fets in app. | — |
+
+Disconnection — ⚠️ in reverse order ⚠️
 
 ![tutorial](img/install_tutorial.jpg)
 ## Ordering and support
