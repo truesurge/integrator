@@ -54,11 +54,10 @@ Type: SMD 0603
 
 ## Installation:
 
-![tutorial](img/jbd_app_fets.jpg)
 
 | <img src="img/integrator.jpg" width="120" alt="v1"> | <img src="img/v2.jpeg" width="120" alt="v2"> |
 | --- | --- |
-| ⚠️ Disable charge/discharge fets in app. ⚠️ | ⚠️ Disable charge/discharge fets in app. ⚠️ |
+| ⚠️ Disable charge/discharge fets in app. ⚠️<br><img src="img/jbd_app_fets.jpg" width="200" alt="BMS app fets"> | ⚠️ Disable charge/discharge fets in app. ⚠️<br><img src="img/jbd_app_fets.jpg" width="200" alt="BMS app fets"> |
 | Connect Integrator to BMS: 4-pin connector → UART port. | Connect Integrator to BMS: 4-pin connector → UART port. |
 | Connect Integrator to MCU: 4-pin Molex minifit connector. | Connect Integrator to MCU: 4-pin Molex minifit connector. |
 | Connect Integrator to MCU with XT90. | Connect the battery directly to the MCU. |
