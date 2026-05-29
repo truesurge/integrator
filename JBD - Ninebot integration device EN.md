@@ -55,14 +55,37 @@ Type: SMD 0603
 ## Installation:
 
 
-| <img src="img/integrator.jpg" width="120" alt="v1"> | <img src="img/v2.jpeg" width="120" alt="v2"> |
-| --- | --- |
-| ⚠️ Disable charge/discharge fets in app. ⚠️<br><img src="img/jbd_app_fets.jpg" width="200" alt="BMS app fets"> | ⚠️ Disable charge/discharge fets in app. ⚠️<br><img src="img/jbd_app_fets.jpg" width="200" alt="BMS app fets"> |
-| Connect Integrator to BMS: 4-pin connector → UART port. | Connect Integrator to BMS: 4-pin connector → UART port. |
-| Connect Integrator to MCU: 4-pin Molex minifit connector. | Connect Integrator to MCU: 4-pin Molex minifit connector. |
-| Connect Integrator to MCU with XT90. | Connect the battery directly to the MCU. |
-| Connect the battery to the integrator with XT90. | Enable charge/discharge fets in app. |
-| Enable charge/discharge fets in app. | — |
+<table>
+  <thead>
+    <tr>
+      <th><img src="img/integrator.jpg" width="120" alt="v1"></th>
+      <th><img src="img/v2.jpeg" width="120" alt="v2"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="2">⚠️ Disable charge/discharge fets in app. ⚠️<br><img src="img/jbd_app_fets.jpg" width="200" alt="BMS app fets"></td>
+    </tr>
+    <tr>
+      <td colspan="2">Connect Integrator to BMS: 4-pin connector → UART port.</td>
+    </tr>
+    <tr>
+      <td colspan="2">Connect Integrator to MCU: 4-pin Molex minifit connector.</td>
+    </tr>
+    <tr>
+      <td>Connect Integrator to MCU with XT90.</td>
+      <td>Connect the battery directly to the MCU. The v2 board has no XT90 connector.</td>
+    </tr>
+    <tr>
+      <td>Connect the battery to the integrator with XT90.</td>
+      <td>Enable charge/discharge fets in app.</td>
+    </tr>
+    <tr>
+      <td>Enable charge/discharge fets in app.</td>
+      <td>—</td>
+    </tr>
+  </tbody>
+</table>
 
 Disconnection — ⚠️ in reverse order ⚠️
 
