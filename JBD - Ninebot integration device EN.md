@@ -81,7 +81,7 @@ Type: SMD 0603
     </tr>
     <tr>
       <td>Connect Integrator to MCU with XT90.</td>
-      <td>Connect the battery directly to the MCU. The v2 board has no XT90 connector.</td>
+      <td>Connect the battery directly to the MCU.</td>
     </tr>
     <tr>
       <td>Connect the battery to the integrator with XT90.</td>
