@@ -64,7 +64,10 @@ Type: SMD 0603
   </thead>
   <tbody>
     <tr>
-      <td colspan="2" style="text-align: center">⚠️ Disable charge/discharge fets in app. ⚠️<br><img src="img/jbd_app_fets.jpg" width="200" alt="BMS app fets"></td>
+      <td colspan="2">
+        <p align="center">⚠️ Disable charge/discharge fets in app. ⚠️</p>
+        <p align="center"><img src="img/jbd_app_fets.jpg" width="200" alt="BMS app fets"></p>
+      </td>
     </tr>
     <tr>
       <td colspan="2" style="text-align: center">Connect Integrator to BMS: 4-pin connector → UART port.</td>

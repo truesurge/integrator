@@ -62,7 +62,10 @@
   </thead>
   <tbody>
     <tr>
-      <td colspan="2" style="text-align: center">⚠️ Отключите мосфеты заряда/разряда в приложении. ⚠️<br><img src="img/jbd_app_fets.jpg" width="200" alt="BMS app fets"></td>
+      <td colspan="2">
+        <p align="center">⚠️ Отключите мосфеты заряда/разряда в приложении. ⚠️</p>
+        <p align="center"><img src="img/jbd_app_fets.jpg" width="200" alt="BMS app fets"></p>
+      </td>
     </tr>
     <tr>
       <td colspan="2" style="text-align: center">Подключите интегратор к BMS: 4-контактный разъём → порт UART.</td>
