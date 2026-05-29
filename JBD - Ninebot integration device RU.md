@@ -68,10 +68,14 @@
       </td>
     </tr>
     <tr>
-      <td colspan="2" style="text-align: center">Подключите интегратор к BMS: 4-контактный разъём → порт UART.</td>
+      <td colspan="2">
+        <p align="center">Подключите интегратор к BMS: 4-контактный разъём → порт UART.</p>
+      </td>
     </tr>
     <tr>
-      <td colspan="2" style="text-align: center">Подключите интегратор к MCU: 4-контактный разъём Molex minifit.</td>
+      <td colspan="2">
+        <p align="center">Подключите интегратор к MCU: 4-контактный разъём Molex minifit.</p>
+      </td>
     </tr>
     <tr>
       <td>Подключите интегратор к MCU разъёмом XT90.</td>

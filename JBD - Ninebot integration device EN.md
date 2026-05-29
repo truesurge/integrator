@@ -70,10 +70,14 @@ Type: SMD 0603
       </td>
     </tr>
     <tr>
-      <td colspan="2" style="text-align: center">Connect Integrator to BMS: 4-pin connector → UART port.</td>
+      <td colspan="2">
+        <p align="center">Connect Integrator to BMS: 4-pin connector → UART port.</p>
+      </td>
     </tr>
     <tr>
-      <td colspan="2" style="text-align: center">Connect Integrator to MCU: 4-pin Molex minifit connector.</td>
+      <td colspan="2">
+        <p align="center">Connect Integrator to MCU: 4-pin Molex minifit connector.</p>
+      </td>
     </tr>
     <tr>
       <td>Connect Integrator to MCU with XT90.</td>
